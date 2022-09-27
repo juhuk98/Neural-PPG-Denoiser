@@ -26,4 +26,4 @@ Estimation of Respiratory Rate from Pulse Oximeters. IEEE Trans. Biomed. Eng. 20
 Delaram Jarchi and Alexander J. Casson. Description of a Database Containing Wrist PPG Signals Recorded during Physical Exercise with Both Accelerometer and Gyroscope Measures of Motion. Data 2017, 2(1), 1. [CrossRef](http://doi.org/10.3390/data2010001)
 
 Reiss, A.; Indlekofer, I.; Schmidt, P.; Van Laerhoven, K. Deep PPG: Large-Scale Heart Rate Estimation with Convolutional Neural
-Networks. Sensors 2019, 19, 3079. [CrossRef](https://doi.org/10.3390/s19143079)
+Networks. Sensors 2019, 19, 3079. [CrossRef](https://doi.org/10.3390/s19143079) [Dataset](https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA)
